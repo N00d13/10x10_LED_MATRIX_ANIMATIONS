@@ -8,7 +8,7 @@
 // May 10, 2021
 //
 // Created for my LED Matrix 10x10 project
-// This projects shuffles through animations, displaying effects such as plasmas, texts, light twinkles and others. In total it includes 11 cool animations.
+// This projects shuffles through animations, displaying effects such as plasmas, texts, light twinkles and others. In total it includes 10 cool animations.
 //
 
 #include <FastLED.h>
@@ -47,7 +47,7 @@ void setup() {
 }
 
 void loop() { 
-    // Loops through all animations. doMultipleAnimations() includes 7 animations. In total, there are 11 animations.
+    // Loops through all animations. doMultipleAnimations() includes 7 animations. In total, there are 10 animations.
     //Difference between each block is the phrase spelled at the end
     doPlasma();
     doLines();
