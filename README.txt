@@ -1,8 +1,8 @@
 This code was created for my 10x10 LED Matrix Project and includes 11 cool animations.
 I worked off many other projects and modified their code to fit my criteria for the project.
-Links to other's original code can be found within the arduino files.
+Links to other's original code can be found within the Arduino files.
 
-I used an Arduino Nano and a WS2812B led strip cut and soldering into different cubes behind an acrlic panel, used as a diffuser.
+I used an Arduino Nano and a WS2812B led strip, cut and soldered into different cubes behind an acrlic panel, used as a diffuser.
 The map of the lights are below, 0 being the beggining and 99 being the end:
 
 	9,  10,  29,  30,  49,  50,  69,  70,  89,  90,
@@ -19,7 +19,7 @@ The map of the lights are below, 0 being the beggining and 99 being the end:
 The code can be probably used with larger or smaller matrixes, but I have not tested this myself.
 If you follow the comments of the code, you can probably get it working with different sizes.
 
-This project uses the FastLED library and therefore support numerous other lightstrips as well.
+This project uses the FastLED library and therefore supports numerous other lightstrips as well.
 If you have any questions, send me an email at mpkaye3@gmail.com and I'll be happy explain any problems you have.
 
 Enjoy!
