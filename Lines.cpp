@@ -23,7 +23,7 @@ public:
     const uint8_t kMatrixHeight = 10;
 
     void start() {
-        for (uint16_t time = 0, cycles = 0; cycles < 2000; time += 128, cycles++) { //Cycle is amount of time the animations runs. A higher number is a longer runtime for the animation. This runs for ~150 seconds
+        for (uint16_t time = 0, cycles = 0; cycles < 24590; time += 128, cycles++) { //Cycle is amount of time the animations runs. A higher number is a longer runtime for the animation. This runs for ~150 seconds
             crazyLines();
             FastLED.show();
         }
