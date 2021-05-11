@@ -22,6 +22,8 @@ If you follow the comments of the code, you can probably get it working with dif
 This project uses the FastLED library and therefore supports numerous other light strips as well.
 If you have any questions, send me an email at mpkaye3@gmail.com and I'll be happy to explain any problems you have.
 
+Here is a link to my YouTube showing all the animations: https://www.youtube.com/watch?v=P4drH6RNNtU
+
 Enjoy!
 
 Created by Matthew Kaye
