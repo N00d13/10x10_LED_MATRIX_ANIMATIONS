@@ -1,4 +1,4 @@
-This code was created for my 10x10 LED Matrix Project and includes 11 cool animations.
+This code was created for my 10x10 LED Matrix Project and includes 10 cool animations.
 I worked off many other projects and modified their code to fit my criteria for the project.
 Links to other's original code can be found within the Arduino files.
 
